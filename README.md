@@ -4,5 +4,5 @@ This repository contains a collection of data science projects that I have worke
 
 ## Table of Contents
 
-- [Exploring Hacker News Posts](#exploring-hacker-news-posts)
+- [Exploring Hacker News Posts](Exploring_Hacker_News_Posts.ipynb)
 - [Profitable App Profiles for the App Store and Google Play Markets](#profitable-app-profiles-for-the-app-store-and-google-play-markets)
