@@ -4,5 +4,6 @@ This repository contains a collection of data science projects that I have worke
 
 ## Table of Contents
 
+- [Exploring eBay Car Sales Data](#exploring-ebay-car-sales-data)
 - [Exploring Hacker News Posts](#exploring-hacker-news-posts)
 - [Profitable App Profiles for the App Store and Google Play Markets](#profitable-app-profiles-for-the-app-store-and-google-play-markets)
